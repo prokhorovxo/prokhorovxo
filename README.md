@@ -11,4 +11,4 @@
 
 ### GitHub Stats
 
-![prokhorovxo's GitHub stats](https://github-readme-stats.vercel.app/api?username=prokhorovxo&count_private=true)
+![prokhorovxo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prokhorovxo&count_private=true)
