@@ -1,6 +1,6 @@
 ### CV
 
-[Fedor Prokhorov – iOS Developer CV](https://github.com/prokhorovxo/prokhorovxo/files/11469995/fedor-prokhorov-ios-developer-cv.pdf)
+[Fedor Prokhorov – iOS Developer CV](https://github.com/prokhorovxo/prokhorovxo/files/12261149/fedor-prokhorov-ios-developer-cv-2_compressed.pdf)
 
 ### Articles and public activities
 
