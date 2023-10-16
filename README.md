@@ -9,6 +9,10 @@
 - [Creating Apollo Client in iOS (RU)](https://www.youtube.com/watch?v=TAGFS3mBV8c)
 - [Uploading dSYM into Firebase Crashlytics via Xcode Cloud (RU)](https://habr.com/ru/post/700742/)
 
+### Contests participation
+
+- [2nd place in The Web Development & Ecommerce Writing Contest by HackerNoon & Elastic Path](https://hackernoon.com/the-web-development-and-ecommerce-writing-contest-final-results-announced)
+
 ### GitHub Stats
 
 ![prokhorovxo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prokhorovxo&count_private=true)
